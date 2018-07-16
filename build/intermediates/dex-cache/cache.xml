@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\36bbc9bdca85ef4e417dc7fb67598f3529bd231d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\pre-dexed\debug\classes_f9d1c2df39baddc297c30b02ea12f9eb6f119695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\progress\AndroidStudio\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_006de6d97addfa2c8f46d8bc35745637bd7808a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\libs\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.7_ef0c89e0ca5dfad6452baaaf08391e76dc60627e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\56c06dcb3b2c7ddadab35538fd775f836c4ec40a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\pre-dexed\debug\classes_042f53c2f2e42f9dc380265838cd42804200d807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\libs\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\pre-dexed\debug\gson-2.7_ef0c89e0ca5dfad6452baaaf08391e76dc60627e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6a6925ce7474fe85d8ebdcec5369ae5171781c13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\pre-dexed\debug\classes_32e38efcc7b96b5b0af1ac602c50b2ee04ad36a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.0.0-jar-with-dependencies_34f6af82761d8b143cca79eb03517a620416157e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8c235c2c8d5a623d9efd77e232b8eeea294ee518\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ba4f76f53fe123ac4e20f2915ffca0a437ac267">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3be28c9ea824c8660b527e510d6087ae335f350a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_34f6af82761d8b143cca79eb03517a620416157e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\56c06dcb3b2c7ddadab35538fd775f836c4ec40a\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Administrator\Desktop\TestWebSwervice-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_c8e7381beb2dcbafb804bd4f55d37c2529cb48ec.jar" />
+    </item>
+
+</items>
